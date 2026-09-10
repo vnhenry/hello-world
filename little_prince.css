@@ -1,21 +1,29 @@
 body {
-    font-family: Arial;
-    width: 600px;
+    font-family: "Times New Roman", Times, serif;
 }
+
+.container {
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 30px;
 
 img {
     width: 250px;
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 10px;
+    display block;
 }
 
 p {
+    
+    width: 300px;
     font-size: 16px;
+    line-height: 1;
+    margin-top: 3px;
+    margin-bottom: 0px;
 }
 
 .red {
     color: red;
+    font-weight: bold;
 }
 
 .orange {
@@ -23,6 +31,6 @@ p {
 }
 
 a {
-    clear: both;
     display: block;
+    marigin-top: 15px;
 }
