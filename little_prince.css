@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    width: 600px;
+}
+
+img {
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+a {
+    clear: both;
+    display: block;
+}
